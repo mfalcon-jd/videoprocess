@@ -4,7 +4,7 @@ Run the following command
 
 pip install -r requirements.txt
 
-Put the  Video File inside the media folder
+Create a Media Folder on the root direcitory and put the  Video File inside the media folder
 
 Create a file called local_settings.py and inside put the following:
 postgresql = {'pguser': 'user',
